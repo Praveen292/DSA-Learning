@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0922-sort-array-by-parity-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0922-sort-array-by-parity-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,4 +23,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0922-sort-array-by-parity-ii) |
 <!---LeetCode Topics End-->
