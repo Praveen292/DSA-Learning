@@ -10,7 +10,7 @@ class Solution {
             count++;
            }
            if(count > k){
-            max_ans = Math.max(max_ans,j-i);
+    
             break;
            } 
             max_ans = Math.max(max_ans,j-i+1);
