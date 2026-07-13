@@ -4,8 +4,9 @@ class Solution {
         map.put(0,1);
         int count = 0;
         int psum = 0;
-        for(int n : nums){
-            psum += n;
+        int n = nums.length;
+        for(int i=0;i<n;i++){
+            psum += nums[i];
             if(map.containsKey(psum-k)){
                 count += map.get(psum-k);
             }
