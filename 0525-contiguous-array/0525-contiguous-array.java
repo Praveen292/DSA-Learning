@@ -10,7 +10,7 @@ class Solution {
                 psum += -1;
             }
             else{
-                psum += 1;
+                psum += nums[i];
             }
             if(map.containsKey(psum)){
                 int len = i - map.get(psum);
