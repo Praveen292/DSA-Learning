@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0922-sort-array-by-parity-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Praveen292/DSA-Learning/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Praveen292/DSA-Learning/tree/master/1004-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Praveen292/DSA-Learning/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1652-defuse-the-bomb](https://github.com/Praveen292/DSA-Learning/tree/master/1652-defuse-the-bomb) |
 ## Hash Table
 |  |
@@ -65,8 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Praveen292/DSA-Learning/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Praveen292/DSA-Learning/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Praveen292/DSA-Learning/tree/master/1004-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Praveen292/DSA-Learning/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Math
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Praveen292/DSA-Learning/tree/master/0523-continuous-subarray-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Praveen292/DSA-Learning/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Praveen292/DSA-Learning/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
