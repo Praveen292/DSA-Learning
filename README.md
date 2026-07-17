@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Praveen292/DSA-Learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Praveen292/DSA-Learning/tree/master/0238-product-of-array-except-self) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Praveen292/DSA-Learning/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
