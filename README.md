@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0137-single-number-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Praveen292/DSA-Learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0219-contains-duplicate-ii) |
@@ -76,9 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/0053-maximum-subarray) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Praveen292/DSA-Learning/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0137-single-number-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
