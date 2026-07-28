@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Praveen292/DSA-Learning/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Praveen292/DSA-Learning/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Praveen292/DSA-Learning/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Praveen292/DSA-Learning/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/0918-maximum-sum-circular-subarray) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Praveen292/DSA-Learning/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Praveen292/DSA-Learning/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Praveen292/DSA-Learning/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0680-valid-palindrome-ii) |
