@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Praveen292/DSA-Learning/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Praveen292/DSA-Learning/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0541-reverse-string-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/Praveen292/DSA-Learning/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0680-valid-palindrome-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0922-sort-array-by-parity-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Praveen292/DSA-Learning/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Praveen292/DSA-Learning/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Praveen292/DSA-Learning/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/Praveen292/DSA-Learning/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
