@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/Praveen292/DSA-Learning/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Praveen292/DSA-Learning/tree/master/0696-count-binary-substrings) |
 | [0922-sort-array-by-parity-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0922-sort-array-by-parity-ii) |
 ## Binary Search
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/Praveen292/DSA-Learning/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Praveen292/DSA-Learning/tree/master/0696-count-binary-substrings) |
 ## Greedy
 |  |
 | ------- |
