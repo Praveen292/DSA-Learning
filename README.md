@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Praveen292/DSA-Learning/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Praveen292/DSA-Learning/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Praveen292/DSA-Learning/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1763-longest-nice-substring](https://github.com/Praveen292/DSA-Learning/tree/master/1763-longest-nice-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Praveen292/DSA-Learning/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Praveen292/DSA-Learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/Praveen292/DSA-Learning/tree/master/1652-defuse-the-bomb) |
+| [1763-longest-nice-substring](https://github.com/Praveen292/DSA-Learning/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -108,11 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0137-single-number-ii) |
+| [1763-longest-nice-substring](https://github.com/Praveen292/DSA-Learning/tree/master/1763-longest-nice-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/0918-maximum-sum-circular-subarray) |
+| [1763-longest-nice-substring](https://github.com/Praveen292/DSA-Learning/tree/master/1763-longest-nice-substring) |
 ## Queue
 |  |
 | ------- |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Praveen292/DSA-Learning/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Praveen292/DSA-Learning/tree/master/0696-count-binary-substrings) |
+| [1763-longest-nice-substring](https://github.com/Praveen292/DSA-Learning/tree/master/1763-longest-nice-substring) |
 ## Greedy
 |  |
 | ------- |
