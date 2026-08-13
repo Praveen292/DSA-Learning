@@ -2,7 +2,7 @@ class Solution {
     public String longestNiceSubstring(String s) {
         int n = s.length();
         int max = 0;
-        String str = "";
+        String str = "";            
         String ans = "";
         for(int i=0;i<n;i++){
             for(int j=i;j<n;j++){
@@ -21,8 +21,7 @@ class Solution {
                     ans = str;
                 }
             }
-            
         }
-        return ans;
+        return ans;      
     }
 }
