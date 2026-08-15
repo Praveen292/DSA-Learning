@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Praveen292/DSA-Learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/Praveen292/DSA-Learning/tree/master/1652-defuse-the-bomb) |
 | [1763-longest-nice-substring](https://github.com/Praveen292/DSA-Learning/tree/master/1763-longest-nice-substring) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Praveen292/DSA-Learning/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Praveen292/DSA-Learning/tree/master/0696-count-binary-substrings) |
 | [1763-longest-nice-substring](https://github.com/Praveen292/DSA-Learning/tree/master/1763-longest-nice-substring) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Praveen292/DSA-Learning/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Greedy
 |  |
 | ------- |
