@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Praveen292/DSA-Learning/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Praveen292/DSA-Learning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0137-single-number-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0137-single-number-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Praveen292/DSA-Learning/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Praveen292/DSA-Learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0350-intersection-of-two-arrays-ii) |
