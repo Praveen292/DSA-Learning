@@ -11,6 +11,4 @@ int maxProfit(int* prices, int pricesSize) {
         }
     }
     return max;
-}int maxProfit(int* prices, int pricesSize) {
-    
 }
