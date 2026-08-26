@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Praveen292/DSA-Learning/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Praveen292/DSA-Learning/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Praveen292/DSA-Learning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Praveen292/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/0053-maximum-subarray) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Praveen292/DSA-Learning/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Praveen292/DSA-Learning/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Praveen292/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Praveen292/DSA-Learning/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Praveen292/DSA-Learning/tree/master/0151-reverse-words-in-a-string) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Praveen292/DSA-Learning/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Praveen292/DSA-Learning/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Praveen292/DSA-Learning/tree/master/0414-third-maximum-number) |
