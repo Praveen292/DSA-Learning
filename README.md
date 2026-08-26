@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Praveen292/DSA-Learning/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Praveen292/DSA-Learning/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Praveen292/DSA-Learning/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Praveen292/DSA-Learning/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Praveen292/DSA-Learning/tree/master/0485-max-consecutive-ones) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Praveen292/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Praveen292/DSA-Learning/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Praveen292/DSA-Learning/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Praveen292/DSA-Learning/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Praveen292/DSA-Learning/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0481-magical-string](https://github.com/Praveen292/DSA-Learning/tree/master/0481-magical-string) |
