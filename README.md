@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Praveen292/DSA-Learning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Praveen292/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Praveen292/DSA-Learning/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Praveen292/DSA-Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/0152-maximum-product-subarray) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Praveen292/DSA-Learning/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Praveen292/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Praveen292/DSA-Learning/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Praveen292/DSA-Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/Praveen292/DSA-Learning/tree/master/0647-palindromic-substrings) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Praveen292/DSA-Learning/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Praveen292/DSA-Learning/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0680-valid-palindrome-ii) |
 ## Manacher
 |  |
