@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Praveen292/DSA-Learning/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Praveen292/DSA-Learning/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Praveen292/DSA-Learning/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Praveen292/DSA-Learning/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Praveen292/DSA-Learning/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Praveen292/DSA-Learning/tree/master/0525-contiguous-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Praveen292/DSA-Learning/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Praveen292/DSA-Learning/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Praveen292/DSA-Learning/tree/master/0455-assign-cookies) |
 | [0481-magical-string](https://github.com/Praveen292/DSA-Learning/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Praveen292/DSA-Learning/tree/master/0567-permutation-in-string) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Praveen292/DSA-Learning/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Praveen292/DSA-Learning/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Praveen292/DSA-Learning/tree/master/0455-assign-cookies) |
 | [0922-sort-array-by-parity-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0922-sort-array-by-parity-ii) |
 ## Sliding Window
 |  |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Praveen292/DSA-Learning/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Praveen292/DSA-Learning/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/Praveen292/DSA-Learning/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0680-valid-palindrome-ii) |
 ## Manacher
 |  |
@@ -205,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Praveen292/DSA-Learning/tree/master/0042-trapping-rain-water) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Praveen292/DSA-Learning/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
