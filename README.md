@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Praveen292/DSA-Learning/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Praveen292/DSA-Learning/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Praveen292/DSA-Learning/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Praveen292/DSA-Learning/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Praveen292/DSA-Learning/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Praveen292/DSA-Learning/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/0918-maximum-sum-circular-subarray) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Praveen292/DSA-Learning/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Praveen292/DSA-Learning/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Praveen292/DSA-Learning/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Praveen292/DSA-Learning/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Praveen292/DSA-Learning/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Praveen292/DSA-Learning/tree/master/1004-max-consecutive-ones-iii) |
