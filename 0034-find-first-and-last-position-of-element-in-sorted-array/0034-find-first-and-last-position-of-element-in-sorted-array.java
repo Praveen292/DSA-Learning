@@ -1,20 +1,36 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
         int n = nums.length;
-        int start = -1;
-        int end =  -1;
-        for(int i = 0;i<n;i++){
-            if(nums[i] == target){
-                start = i;
-                break;
+        int first = -1,last = -1;
+        int l = 0,r = n-1;
+        while(l <= r){
+            int mid = l + (r-l)/2;
+            if(nums[mid] >= target){
+                first = mid;
+                r  = mid - 1;
+            }
+            else{
+                l = mid + 1;
             }
         }
-        for(int i = n-1;i>=0;i--){
-            if(nums[i] == target){
-                end = i;
-                break;
-            }
+        if(first==-1 || nums[first]!=target){
+            return new int[]{-1,-1};
         }
-        return new int[]{start,end};
+        l = 0;
+        r = n-1;
+        while(l <= r){
+             int mid = l + (r-l)/2;
+            if(nums[mid] <= target){
+                last = mid;
+                
+            
+                l = mid + 1;
+            }
+            else{
+                r = mid - 1;
+            }
+           
+        }
+        return new int[]{first,last};
     }
 }
