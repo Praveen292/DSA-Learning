@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Praveen292/DSA-Learning/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2540-minimum-common-value](https://github.com/Praveen292/DSA-Learning/tree/master/2540-minimum-common-value) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Praveen292/DSA-Learning/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Praveen292/DSA-Learning/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Praveen292/DSA-Learning/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Praveen292/DSA-Learning/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Praveen292/DSA-Learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Praveen292/DSA-Learning/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Praveen292/DSA-Learning/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
 |  |
 | ------- |
