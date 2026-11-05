@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Praveen292/DSA-Learning/tree/master/2540-minimum-common-value) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Praveen292/DSA-Learning/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/3364-minimum-positive-sum-subarray) |
+| [3649-number-of-perfect-pairs](https://github.com/Praveen292/DSA-Learning/tree/master/3649-number-of-perfect-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Praveen292/DSA-Learning/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Praveen292/DSA-Learning/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/Praveen292/DSA-Learning/tree/master/2540-minimum-common-value) |
+| [3649-number-of-perfect-pairs](https://github.com/Praveen292/DSA-Learning/tree/master/3649-number-of-perfect-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Praveen292/DSA-Learning/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Praveen292/DSA-Learning/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3649-number-of-perfect-pairs](https://github.com/Praveen292/DSA-Learning/tree/master/3649-number-of-perfect-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Praveen292/DSA-Learning/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Praveen292/DSA-Learning/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Praveen292/DSA-Learning/tree/master/1903-largest-odd-number-in-string) |
+| [3649-number-of-perfect-pairs](https://github.com/Praveen292/DSA-Learning/tree/master/3649-number-of-perfect-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
