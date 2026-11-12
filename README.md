@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Praveen292/DSA-Learning/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Praveen292/DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Praveen292/DSA-Learning/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Praveen292/DSA-Learning/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Praveen292/DSA-Learning/tree/master/0525-contiguous-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Praveen292/DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Praveen292/DSA-Learning/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Praveen292/DSA-Learning/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Praveen292/DSA-Learning/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Praveen292/DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Praveen292/DSA-Learning/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0481-magical-string](https://github.com/Praveen292/DSA-Learning/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0541-reverse-string-ii) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Praveen292/DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Praveen292/DSA-Learning/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Praveen292/DSA-Learning/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Praveen292/DSA-Learning/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
