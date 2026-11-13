@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Praveen292/DSA-Learning/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Praveen292/DSA-Learning/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Praveen292/DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/Praveen292/DSA-Learning/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Praveen292/DSA-Learning/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0481-magical-string](https://github.com/Praveen292/DSA-Learning/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0541-reverse-string-ii) |
