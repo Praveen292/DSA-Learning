@@ -4,14 +4,13 @@ class Solution {
         String str = Integer.toString(num);
         int n = str.length();
         int count = 0;
-        for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-                String s = str.substring(i,j+1);
-                if(s.length() == k){
-                    int ans = Integer.parseInt(s);
-                    if(ans !=0 && num%ans == 0){
-                        count++;
-                    }
+        for(int i=0;i<=n-k;i++){
+           
+            String s = str.substring(i,i+k);
+            if(s.length() == k){
+                int ans = Integer.parseInt(s);
+                if(ans !=0 && num%ans == 0){
+                    count++;
                 }
             }
         }
