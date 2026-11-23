@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Praveen292/DSA-Learning/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Praveen292/DSA-Learning/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Praveen292/DSA-Learning/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Praveen292/DSA-Learning/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/Praveen292/DSA-Learning/tree/master/2540-minimum-common-value) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Praveen292/DSA-Learning/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/Praveen292/DSA-Learning/tree/master/1763-longest-nice-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Praveen292/DSA-Learning/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Praveen292/DSA-Learning/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Praveen292/DSA-Learning/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Praveen292/DSA-Learning/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/Praveen292/DSA-Learning/tree/master/2540-minimum-common-value) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Praveen292/DSA-Learning/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Praveen292/DSA-Learning/tree/master/0696-count-binary-substrings) |
 | [0922-sort-array-by-parity-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Praveen292/DSA-Learning/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Praveen292/DSA-Learning/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Praveen292/DSA-Learning/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/Praveen292/DSA-Learning/tree/master/2540-minimum-common-value) |
 | [3649-number-of-perfect-pairs](https://github.com/Praveen292/DSA-Learning/tree/master/3649-number-of-perfect-pairs) |
@@ -305,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Praveen292/DSA-Learning/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Praveen292/DSA-Learning/tree/master/0232-implement-queue-using-stacks) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/Praveen292/DSA-Learning/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
