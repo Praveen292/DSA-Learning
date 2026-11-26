@@ -3,13 +3,18 @@ class Solution {
         int n = nums.length;
         int count = 0;
         for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                for(int k=0;k<n;k++){
-                    if(i < j && j<k){
-                        if(nums[j]-nums[i] == diff && nums[k] - nums[j] == diff){
-                            count++;
-                        }
-                    }
+            int j = i+1;
+            while(j<n && nums[j] - nums[i] < diff){
+                j++;
+            }
+            if(j<n && nums[j] - nums[i] == diff){
+                int k= j+1;
+
+                while(k<n && nums[k] - nums[j] < diff){
+                    k++;
+                }
+                if(k<n && nums[k] - nums[j] == diff){
+                    count++;
                 }
             }
         }
