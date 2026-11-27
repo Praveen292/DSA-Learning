@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Praveen292/DSA-Learning/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Praveen292/DSA-Learning/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Praveen292/DSA-Learning/tree/master/2367-number-of-arithmetic-triplets) |
+| [2401-longest-nice-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/2401-longest-nice-subarray) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Praveen292/DSA-Learning/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/Praveen292/DSA-Learning/tree/master/2540-minimum-common-value) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Praveen292/DSA-Learning/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Praveen292/DSA-Learning/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Praveen292/DSA-Learning/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Praveen292/DSA-Learning/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2401-longest-nice-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/2401-longest-nice-subarray) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Praveen292/DSA-Learning/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Praveen292/DSA-Learning/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Praveen292/DSA-Learning/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Praveen292/DSA-Learning/tree/master/0137-single-number-ii) |
 | [1763-longest-nice-substring](https://github.com/Praveen292/DSA-Learning/tree/master/1763-longest-nice-substring) |
+| [2401-longest-nice-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/2401-longest-nice-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
