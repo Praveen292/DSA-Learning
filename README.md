@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Praveen292/DSA-Learning/tree/master/2540-minimum-common-value) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Praveen292/DSA-Learning/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Praveen292/DSA-Learning/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Praveen292/DSA-Learning/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Praveen292/DSA-Learning/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Praveen292/DSA-Learning/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Praveen292/DSA-Learning/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Praveen292/DSA-Learning/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Praveen292/DSA-Learning/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Praveen292/DSA-Learning/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Praveen292/DSA-Learning/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Praveen292/DSA-Learning/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Praveen292/DSA-Learning/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Greedy
 |  |
 | ------- |
